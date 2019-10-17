@@ -1,8 +1,7 @@
 # Magic-function-of-object-and-arrray
 magic function of object and arrray
-
-
 // magic function of object and arrray ----------------------------
+
 const companies= [
     {name: "Company One", category: "Finance", start: 1981, end: 2004},
     {name: "Company Two", category: "Retail", start: 1992, end: 2008},
